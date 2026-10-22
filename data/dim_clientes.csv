@@ -1,0 +1,201 @@
+ID_Cliente;Nome_Cliente;Cidade;Estado;Regiao;Segmento;Data_Cadastro
+CLI001;Júlia Almeida Pereira;Caxias do Sul;RS;Sul;Pessoa Física;11/04/2024
+CLI002;Andrade Digital;Guarulhos;SP;Sudeste;Pessoa Jurídica;08/02/2025
+CLI003;Fernanda Moraes Santos;Niterói;RJ;Sudeste;Pessoa Física;04/04/2024
+CLI004;Fernando Moreira Marques;Joinville;SC;Sul;Pessoa Física;30/11/2024
+CLI005;Marcos Oliveira Menezes;Criciúma;SC;Sul;Pessoa Física;20/04/2025
+CLI006;Moreira Engenharia;São Luís;MA;Nordeste;Pessoa Jurídica;18/07/2024
+CLI007;Alves Inovação;Maringá;PR;Sul;Pessoa Jurídica;25/07/2023
+CLI008;Márcio  do Carmo Souza;Montes Claros;MG;Sudeste;Pessoa Física;19/07/2024
+CLI009;Júlia Fernandes Nunes;Vila Velha;ES;Sudeste;Pessoa Física;22/09/2025
+CLI010;Sérgio Almeida Pereira;Pelotas;RS;Sul;Pessoa Física;13/10/2025
+CLI011;Ana Lopes Fernandes;Caxias do Sul;RS;Sul;Pessoa Física;05/08/2023
+CLI012;Mendes Comércio;São José dos Campos;SP;Sudeste;Pessoa Jurídica;04/06/2024
+CLI013;Fernando Pereira Andrade;Guarulhos;SP;Sudeste;Pessoa Física;15/08/2024
+CLI014;Gabriela Gonçalves Rodrigues;Várzea Grande;MT;Centro-Oeste;Pessoa Física;10/02/2023
+CLI015;Thiago Pereira Ribeiro;Uberaba;MG;Sudeste;Pessoa Física;11/02/2024
+CLI016;Isabela Teixeira  do Carmo;Duque de Caxias;RJ;Sudeste;Pessoa Física;18/08/2025
+CLI017;Marcos Carvalho Oliveira;Caucaia;CE;Nordeste;Pessoa Física;17/05/2024
+CLI018;Renata Marques Lima;Jaboatão dos Guararapes;PE;Nordeste;Pessoa Física;10/06/2025
+CLI019;Araújo Net;Juiz de Fora;MG;Sudeste;Pessoa Jurídica;29/04/2024
+CLI020;Almeida Tech;Niterói;RJ;Sudeste;Pessoa Jurídica;31/07/2024
+CLI021;Felipe Machado Barbosa;Anápolis;GO;Centro-Oeste;Pessoa Física;09/07/2023
+CLI022;Martins Consultoria;Montes Claros;MG;Sudeste;Pessoa Jurídica;10/10/2024
+CLI023;Vanessa Andrade Almeida;Osasco;SP;Sudeste;Pessoa Física;17/03/2024
+CLI024;Renata Santos Oliveira;Belo Horizonte;MG;Sudeste;Pessoa Física;09/08/2025
+CLI025;Santos Informática;Serra;ES;Sudeste;Pessoa Jurídica;20/01/2024
+CLI026;Nunes Services;Nova Iguaçu;RJ;Sudeste;Pessoa Jurídica;22/07/2023
+CLI027;Marcelo Moraes Andrade;Londrina;PR;Sul;Pessoa Física;17/07/2023
+CLI028;Sérgio Lopes Gonçalves;Ribeirão Preto;SP;Sudeste;Pessoa Física;08/04/2024
+CLI029;Castro Labs;Olinda;PE;Nordeste;Pessoa Jurídica;27/05/2023
+CLI030;Guilherme Gonçalves  do Carmo;Uberlândia;MG;Sudeste;Pessoa Física;21/05/2025
+CLI031;Moreira Data;Várzea Grande;MT;Centro-Oeste;Pessoa Jurídica;20/09/2023
+CLI032;Letícia Santos Silva;Santo André;SP;Sudeste;Pessoa Física;26/11/2025
+CLI033;Thiago Teixeira Vieira;Olinda;PE;Nordeste;Pessoa Física;08/02/2024
+CLI034;Vanessa Andrade Costa;Várzea Grande;MT;Centro-Oeste;Pessoa Física;14/04/2023
+CLI035;Gabriela Moreira Teixeira;Ananindeua;PA;Norte;Pessoa Física;27/05/2025
+CLI036;Gabriela Lopes Castro;Recife;PE;Nordeste;Pessoa Física;02/02/2024
+CLI037;Enzo Pereira Alves;Caruaru;PE;Nordeste;Pessoa Física;22/11/2025
+CLI038;Beatriz Dias Freitas;Belém;PA;Norte;Pessoa Física;16/07/2024
+CLI039;Amanda Marques Santana;Belo Horizonte;MG;Sudeste;Pessoa Física;11/10/2023
+CLI040;Vanessa Rodrigues Vieira;Porto Alegre;RS;Sul;Pessoa Física;17/01/2023
+CLI041;Fernanda Mendes Ferreira;Belo Horizonte;MG;Sudeste;Pessoa Física;26/11/2025
+CLI042;Fabio Cardoso Teixeira;Ji-Paraná;RO;Norte;Pessoa Física;10/07/2023
+CLI043;Aline Nascimento Gonçalves;Uberlândia;MG;Sudeste;Pessoa Física;19/07/2024
+CLI044;Jessica Andrade Ramos;Vitória da Conquista;BA;Nordeste;Pessoa Física;19/08/2025
+CLI045;Santos Net;Maceió;AL;Nordeste;Pessoa Jurídica;03/09/2023
+CLI046;Júlia Nunes Teixeira;Niterói;RJ;Sudeste;Pessoa Física;07/04/2025
+CLI047;Juliana Barbosa Silva;Guarulhos;SP;Sudeste;Pessoa Física;15/04/2024
+CLI048;Santos Labs;Cascavel;PR;Sul;Pessoa Jurídica;30/05/2023
+CLI049;Beatriz Ferreira Almeida;Juiz de Fora;MG;Sudeste;Pessoa Física;04/09/2024
+CLI050;Fernando Rodrigues Araújo;São Bernardo do Campo;SP;Sudeste;Pessoa Física;16/02/2023
+CLI051;Jessica Lopes Martins;Parintins;AM;Norte;Pessoa Física;18/10/2024
+CLI052;Caio Machado Nunes;Santo André;SP;Sudeste;Pessoa Física;01/03/2025
+CLI053;Rafael Silva Santana;Campos dos Goytacazes;RJ;Sudeste;Pessoa Física;13/07/2024
+CLI054;Silva Empreendimentos;Cascavel;PR;Sul;Pessoa Jurídica;28/02/2025
+CLI055;Matheus Ribeiro Nunes;Betim;MG;Sudeste;Pessoa Física;27/11/2024
+CLI056;Bruna Rodrigues Freitas;Brasília;DF;Centro-Oeste;Pessoa Física;08/10/2025
+CLI057;Nunes Empreendimentos;Imperatriz;MA;Nordeste;Pessoa Jurídica;23/12/2023
+CLI058;Vinicius Rodrigues Castro;Santos;SP;Sudeste;Pessoa Física;31/01/2025
+CLI059;Aline Silva Rodrigues;Camaçari;BA;Nordeste;Pessoa Física;02/03/2025
+CLI060;Gabriel Machado Ramos;Dourados;MS;Centro-Oeste;Pessoa Física;20/11/2024
+CLI061;Vanessa Gonçalves Menezes;Florianópolis;SC;Sul;Pessoa Física;02/12/2025
+CLI062;Ribeiro Engenharia;Guarulhos;SP;Sudeste;Pessoa Jurídica;23/01/2025
+CLI063;Marcelo Nunes Pereira;Uberlândia;MG;Sudeste;Pessoa Física;18/10/2025
+CLI064;Carlos Alves Souza;Feira de Santana;BA;Nordeste;Pessoa Física;17/02/2024
+CLI065;Rocha Digital;São José dos Campos;SP;Sudeste;Pessoa Jurídica;08/07/2025
+CLI066;Fabio Teixeira Castro;Uberaba;MG;Sudeste;Pessoa Física;06/04/2023
+CLI067;Aline Menezes Ribeiro;Vitória;ES;Sudeste;Pessoa Física;06/10/2023
+CLI068;Carlos Freitas Soares;Pelotas;RS;Sul;Pessoa Física;29/12/2024
+CLI069;Caio Castro Ribeiro;Manaus;AM;Norte;Pessoa Física;17/03/2023
+CLI070;Bruna Carvalho Cardoso;Manaus;AM;Norte;Pessoa Física;24/05/2023
+CLI071;Gabriela Ribeiro Moreira;Santa Maria;RS;Sul;Pessoa Física;22/07/2024
+CLI072;Araújo Engenharia;Santa Maria;RS;Sul;Pessoa Jurídica;02/01/2025
+CLI073;Alexandre Ribeiro Lima;Sobral;CE;Nordeste;Pessoa Física;01/07/2025
+CLI074;Martins Ltda;Campinas;SP;Sudeste;Pessoa Jurídica;05/03/2025
+CLI075;Gustavo Mendes Menezes;Niterói;RJ;Sudeste;Pessoa Física;14/05/2024
+CLI076;Moreira Connect;Jaboatão dos Guararapes;PE;Nordeste;Pessoa Jurídica;20/03/2024
+CLI077;Renata Marques Gomes;Anápolis;GO;Centro-Oeste;Pessoa Física;22/06/2023
+CLI078;Barbosa Ltda;São José dos Campos;SP;Sudeste;Pessoa Jurídica;21/10/2025
+CLI079;Bruna Moreira Gonçalves;Campos dos Goytacazes;RJ;Sudeste;Pessoa Física;27/02/2023
+CLI080;Rocha Empreendimentos;Maringá;PR;Sul;Pessoa Jurídica;02/02/2025
+CLI081;Vieira Data;São Paulo;SP;Sudeste;Pessoa Jurídica;17/10/2024
+CLI082;Rodrigo Ribeiro Gomes;Parintins;AM;Norte;Pessoa Física;24/12/2023
+CLI083;Bruna Pereira Machado;Joinville;SC;Sul;Pessoa Física;23/06/2024
+CLI084;Castro Net;Niterói;RJ;Sudeste;Pessoa Jurídica;05/04/2024
+CLI085;Júlia Martins Teixeira;Campina Grande;PB;Nordeste;Pessoa Física;01/06/2025
+CLI086;Marcos Moreira Santos;Campinas;SP;Sudeste;Pessoa Física;26/05/2025
+CLI087;Silva Data;Porto Velho;RO;Norte;Pessoa Jurídica;02/05/2025
+CLI088;Mariana Dias Marques;Porto Alegre;RS;Sul;Pessoa Física;15/04/2023
+CLI089;Lucas Rocha Ferreira;Salvador;BA;Nordeste;Pessoa Física;09/02/2025
+CLI090;Isabela Menezes Gomes;Maceió;AL;Nordeste;Pessoa Física;01/04/2024
+CLI091;Martins Digital;Rio de Janeiro;RJ;Sudeste;Pessoa Jurídica;02/05/2024
+CLI092;Bruna Cardoso Pereira;Santos;SP;Sudeste;Pessoa Física;04/11/2024
+CLI093;Matheus Ribeiro Silva;Santa Maria;RS;Sul;Pessoa Física;16/09/2025
+CLI094;Marcelo Nascimento Almeida;Caucaia;CE;Nordeste;Pessoa Física;31/07/2024
+CLI095;Renata Moraes Santana;Uberlândia;MG;Sudeste;Pessoa Física;08/03/2025
+CLI096;Carolina Moraes Gonçalves;Sobral;CE;Nordeste;Pessoa Física;25/06/2024
+CLI097;Marcelo Rodrigues Mendes;Osasco;SP;Sudeste;Pessoa Física;23/02/2025
+CLI098;Rodrigues Informática;Joinville;SC;Sul;Pessoa Jurídica;24/07/2023
+CLI099;Costa Labs;Canoas;RS;Sul;Pessoa Jurídica;18/06/2025
+CLI100;Oliveira Sistemas;Londrina;PR;Sul;Pessoa Jurídica;02/03/2023
+CLI101;Rocha Solutions;Uberlândia;MG;Sudeste;Pessoa Jurídica;17/06/2024
+CLI102;Rodrigues Consultoria;Montes Claros;MG;Sudeste;Pessoa Jurídica;29/06/2024
+CLI103;Marques Consultoria;São José dos Campos;SP;Sudeste;Pessoa Jurídica;02/08/2023
+CLI104;Soares Digital;São Luís;MA;Nordeste;Pessoa Jurídica;19/12/2024
+CLI105;Beatriz Carvalho Nunes;Jaboatão dos Guararapes;PE;Nordeste;Pessoa Física;31/12/2023
+CLI106;Oliveira Comércio;Maceió;AL;Nordeste;Pessoa Jurídica;16/03/2025
+CLI107;Diego Moreira Menezes;Petrópolis;RJ;Sudeste;Pessoa Física;27/03/2023
+CLI108;Fernando Moreira Soares;Belo Horizonte;MG;Sudeste;Pessoa Física;08/03/2023
+CLI109;Alexandre Castro Dias;Porto Alegre;RS;Sul;Pessoa Física;17/01/2025
+CLI110;Menezes Services;Aparecida de Goiânia;GO;Centro-Oeste;Pessoa Jurídica;11/11/2023
+CLI111;Isabela Gonçalves Dias;Campos dos Goytacazes;RJ;Sudeste;Pessoa Física;15/09/2024
+CLI112;Freitas Consultoria;Guarulhos;SP;Sudeste;Pessoa Jurídica;26/06/2024
+CLI113;Juliana Andrade Cardoso;Anápolis;GO;Centro-Oeste;Pessoa Física;04/01/2023
+CLI114;Freitas Services;Salvador;BA;Nordeste;Pessoa Jurídica;13/07/2023
+CLI115;Bruno Nunes Rodrigues;Campos dos Goytacazes;RJ;Sudeste;Pessoa Física;15/04/2025
+CLI116;Vanessa Barbosa Ribeiro;Santos;SP;Sudeste;Pessoa Física;15/10/2024
+CLI117;Costa Digital;Contagem;MG;Sudeste;Pessoa Jurídica;20/06/2025
+CLI118;Vinicius Rodrigues Nascimento;Caxias do Sul;RS;Sul;Pessoa Física;13/01/2023
+CLI119;Enzo Silva Menezes;São José dos Campos;SP;Sudeste;Pessoa Física;29/06/2025
+CLI120;Gabriela Freitas Cardoso;Várzea Grande;MT;Centro-Oeste;Pessoa Física;24/08/2023
+CLI121;Rodrigo Lima Santana;Duque de Caxias;RJ;Sudeste;Pessoa Física;27/05/2024
+CLI122;Beatriz Mendes Pereira;João Pessoa;PB;Nordeste;Pessoa Física;27/09/2023
+CLI123;Gabriela Rocha Menezes;São Luís;MA;Nordeste;Pessoa Física;19/03/2023
+CLI124;Pedro Moreira Fernandes;São Luís;MA;Nordeste;Pessoa Física;07/09/2024
+CLI125;Luana Gonçalves Nascimento;Vitória;ES;Sudeste;Pessoa Física;26/10/2024
+CLI126;Marcos Santos Carvalho;Osasco;SP;Sudeste;Pessoa Física;28/11/2025
+CLI127;Oliveira S.A.;Jaboatão dos Guararapes;PE;Nordeste;Pessoa Jurídica;04/11/2025
+CLI128;Vanessa Freitas Araújo;Santa Maria;RS;Sul;Pessoa Física;03/07/2024
+CLI129;Isabela Marques Gonçalves;Ribeirão Preto;SP;Sudeste;Pessoa Física;31/05/2024
+CLI130;Vanessa Moraes Martins;São Bernardo do Campo;SP;Sudeste;Pessoa Física;04/08/2023
+CLI131;Diego Mendes Pereira;São Bernardo do Campo;SP;Sudeste;Pessoa Física;23/04/2025
+CLI132;Amanda Cardoso Castro;Canoas;RS;Sul;Pessoa Física;10/03/2023
+CLI133;Vinicius  do Carmo Moraes;Petrópolis;RJ;Sudeste;Pessoa Física;25/03/2025
+CLI134;Ribeiro Connect;Campinas;SP;Sudeste;Pessoa Jurídica;11/09/2025
+CLI135;Ribeiro Inovação;Pelotas;RS;Sul;Pessoa Jurídica;06/06/2025
+CLI136;Machado Consultoria;Vitória;ES;Sudeste;Pessoa Jurídica;17/02/2025
+CLI137;Paulo Menezes Rocha;São Bernardo do Campo;SP;Sudeste;Pessoa Física;09/09/2025
+CLI138;Jessica Almeida Rocha;Betim;MG;Sudeste;Pessoa Física;21/07/2023
+CLI139;Letícia Teixeira Moreira;Brasília;DF;Centro-Oeste;Pessoa Física;21/01/2024
+CLI140;Amanda Santana Marques;Maringá;PR;Sul;Pessoa Física;12/08/2025
+CLI141;Larissa Moreira Alves;Santo André;SP;Sudeste;Pessoa Física;26/06/2023
+CLI142;André Dias Nunes;Santo André;SP;Sudeste;Pessoa Física;08/12/2025
+CLI143;Barbosa Ltda;Curitiba;PR;Sul;Pessoa Jurídica;16/09/2025
+CLI144;Caio Ramos Freitas;Niterói;RJ;Sudeste;Pessoa Física;13/10/2023
+CLI145;Caio Fernandes Silva;Juazeiro do Norte;CE;Nordeste;Pessoa Física;06/10/2025
+CLI146;Bruna Freitas Moraes;Sobral;CE;Nordeste;Pessoa Física;13/07/2025
+CLI147;Ramos Softwares;Campos dos Goytacazes;RJ;Sudeste;Pessoa Jurídica;11/06/2023
+CLI148;Camila Machado Ramos;Recife;PE;Nordeste;Pessoa Física;28/10/2025
+CLI149;Andrade Ltda;Santo André;SP;Sudeste;Pessoa Jurídica;01/08/2024
+CLI150;Bruna Pereira Santana;Imperatriz;MA;Nordeste;Pessoa Física;24/03/2025
+CLI151;Pedro Menezes Rocha;Uberaba;MG;Sudeste;Pessoa Física;01/08/2025
+CLI152;Alves Tecnologia;Duque de Caxias;RJ;Sudeste;Pessoa Jurídica;03/07/2025
+CLI153;Alexandre Santos Silva;Imperatriz;MA;Nordeste;Pessoa Física;15/01/2025
+CLI154;Matheus Nascimento Ribeiro;Natal;RN;Nordeste;Pessoa Física;22/07/2025
+CLI155;Thiago Santana Teixeira;Dourados;MS;Centro-Oeste;Pessoa Física;15/08/2024
+CLI156;Paulo Nascimento Ramos;Serra;ES;Sudeste;Pessoa Física;09/06/2024
+CLI157;Gabriel Moreira Araújo;Campos dos Goytacazes;RJ;Sudeste;Pessoa Física;08/05/2024
+CLI158;Júlia Santana Nascimento;Feira de Santana;BA;Nordeste;Pessoa Física;08/05/2023
+CLI159;Moraes Informática;Porto Alegre;RS;Sul;Pessoa Jurídica;24/09/2025
+CLI160;Camila Dias Rocha;Petrópolis;RJ;Sudeste;Pessoa Física;07/10/2024
+CLI161;Carolina Ribeiro Alves;Porto Alegre;RS;Sul;Pessoa Física;10/07/2025
+CLI162;Paulo Santos Silva;São Bernardo do Campo;SP;Sudeste;Pessoa Física;04/03/2025
+CLI163; do Carmo Tech;Belo Horizonte;MG;Sudeste;Pessoa Jurídica;06/07/2023
+CLI164;Santana Comércio;Parintins;AM;Norte;Pessoa Jurídica;10/03/2023
+CLI165;Juliana Barbosa Vieira;Canoas;RS;Sul;Pessoa Física;15/08/2025
+CLI166;André Santana Lima;Fortaleza;CE;Nordeste;Pessoa Física;14/03/2023
+CLI167;Silva Tech;Porto Alegre;RS;Sul;Pessoa Jurídica;28/11/2025
+CLI168;Menezes Inovação;Feira de Santana;BA;Nordeste;Pessoa Jurídica;12/04/2023
+CLI169;Caio Menezes Soares;Manaus;AM;Norte;Pessoa Física;12/01/2023
+CLI170;Larissa Vieira Pereira;Florianópolis;SC;Sul;Pessoa Física;09/01/2024
+CLI171;Bruno Moreira Fernandes;Maringá;PR;Sul;Pessoa Física;03/05/2024
+CLI172;Marcos Ramos Gomes;Porto Alegre;RS;Sul;Pessoa Física;07/09/2025
+CLI173;Guilherme Carvalho Almeida;Salvador;BA;Nordeste;Pessoa Física;01/06/2025
+CLI174;Márcio Nascimento Mendes;Ponta Grossa;PR;Sul;Pessoa Física;23/07/2025
+CLI175;João Araújo Soares;Camaçari;BA;Nordeste;Pessoa Física;21/09/2025
+CLI176;Ricardo Santana Oliveira;Camaçari;BA;Nordeste;Pessoa Física;12/09/2025
+CLI177;Fernando Araújo Almeida;Imperatriz;MA;Nordeste;Pessoa Física;08/09/2025
+CLI178;Alexandre Gonçalves Lopes;Cariacica;ES;Sudeste;Pessoa Física;12/06/2025
+CLI179;Gabriela Santana Freitas;Campinas;SP;Sudeste;Pessoa Física;28/11/2025
+CLI180;Mendes Inovação;Chapecó;SC;Sul;Pessoa Jurídica;12/01/2024
+CLI181;Mariana Araújo Barbosa;Jaboatão dos Guararapes;PE;Nordeste;Pessoa Física;03/01/2023
+CLI182;Fernanda Souza Fernandes;Rio de Janeiro;RJ;Sudeste;Pessoa Física;07/03/2024
+CLI183;Almeida Consultoria;São José dos Campos;SP;Sudeste;Pessoa Jurídica;21/08/2025
+CLI184;Menezes Tech;Canoas;RS;Sul;Pessoa Jurídica;21/12/2025
+CLI185;Mariana Alves Souza;Nova Iguaçu;RJ;Sudeste;Pessoa Física;03/06/2025
+CLI186;Paulo Gomes Santana;Belo Horizonte;MG;Sudeste;Pessoa Física;22/01/2025
+CLI187;Felipe Rodrigues Nascimento;Brasília;DF;Centro-Oeste;Pessoa Física;09/11/2025
+CLI188;João Teixeira Fernandes;Camaçari;BA;Nordeste;Pessoa Física;03/01/2023
+CLI189;Luana Martins Moreira;Santa Maria;RS;Sul;Pessoa Física;09/08/2025
+CLI190;Mendes Consultoria;Campinas;SP;Sudeste;Pessoa Jurídica;19/06/2023
+CLI191;Jessica Moreira Rodrigues;Jaboatão dos Guararapes;PE;Nordeste;Pessoa Física;10/09/2025
+CLI192;Pereira Solutions;Campinas;SP;Sudeste;Pessoa Jurídica;29/03/2024
+CLI193;Sérgio Martins Machado;São Paulo;SP;Sudeste;Pessoa Física;29/11/2025
+CLI194;Júlia Oliveira  do Carmo;Vitória da Conquista;BA;Nordeste;Pessoa Física;04/08/2023
+CLI195;Jessica Machado Gonçalves;São José dos Campos;SP;Sudeste;Pessoa Física;19/02/2025
+CLI196;Mariana Castro Marques;Olinda;PE;Nordeste;Pessoa Física;13/05/2023
+CLI197;Patrícia Nascimento Gomes;São Luís;MA;Nordeste;Pessoa Física;23/03/2023
+CLI198;Eduardo Martins Mendes;São Gonçalo;RJ;Sudeste;Pessoa Física;05/12/2025
+CLI199;Carlos Soares  do Carmo;Nova Iguaçu;RJ;Sudeste;Pessoa Física;23/03/2024
+CLI200;Gabriela Ferreira Vieira;Caucaia;CE;Nordeste;Pessoa Física;20/09/2025

@@ -1,0 +1,51 @@
+ID_Produto;Nome_Produto;Categoria;Marca;Custo_Unitario;Preco_Tabela
+PROD001;"Notebook UltraSlim 15.6"" i7 16GB 512GB SSD";Notebooks;Dell;2822.36;3998.16
+PROD002;"Notebook Gamer Nitro 15.6"" Ryzen 7 16GB RTX 3050";Notebooks;Acer;4061.00;5427.98
+PROD003;"Notebook Expert 14"" i5 8GB 256GB SSD";Notebooks;Lenovo;2503.26;3124.07
+PROD004;"Notebook ProBook 15.6"" i5 16GB 512GB SSD";Notebooks;HP;1956.51;2732.33
+PROD005;"Notebook Gamer Predator 16"" i9 32GB RTX 4060";Notebooks;Acer;3604.93;4904.46
+PROD006;"Monitor LED 24"" Full HD IPS 75Hz";Monitores;LG;478.37;730.88
+PROD007;"Monitor Gamer 27"" Quad HD 165Hz 1ms";Monitores;AOC;1496.86;1948.66
+PROD008;"Monitor Curvo 32"" 4K UHD 60Hz";Monitores;Samsung;751.43;972.74
+PROD009;"Monitor Office 21.5"" Full HD HDMI";Monitores;Philips;834.07;1156.36
+PROD010;"Monitor Gamer Ultrawide 34"" 144Hz";Monitores;LG;1019.45;1347.92
+PROD011;Placa de Vídeo RTX 4060 8GB GDDR6;Componentes;Asus;1878.29;2257.93
+PROD012;Placa de Vídeo RTX 3060 12GB GDDR6;Componentes;Gigabyte;990.82;1234.86
+PROD013;SSD NVMe M.2 1TB Leitura 3500MB/s;Componentes;Kingston;1315.92;1759.42
+PROD014;SSD NVMe M.2 2TB Leitura 7000MB/s;Componentes;Samsung;735.35;938.96
+PROD015;Memória RAM Fury Beast 16GB DDR4 3200MHz;Componentes;Kingston;1853.11;2195.73
+PROD016;Memória RAM Vengeance 32GB DDR5 5600MHz;Componentes;Corsair;1857.77;2244.14
+PROD017;Processador Ryzen 7 5700X 3.4GHz 8-Cores;Componentes;AMD;369.26;508.17
+PROD018;Processador Core i5-13400F 2.5GHz 10-Cores;Componentes;Intel;2525.25;3390.02
+PROD019;Impressora Multifuncional Tanque de Tinta Wi-Fi;Impressão;Epson;412.29;539.38
+PROD020;Impressora Laser Monocromática USB 110V;Impressão;Brother;638.63;900.02
+PROD021;Impressora Multifuncional EcoTank Colorida;Impressão;Epson;256.44;365.94
+PROD022;Webcam Full HD 1080p Microfone Embutido;Periféricos;Logitech;179.36;282.67
+PROD023;Webcam 4K Pro Streaming AutoFocus;Periféricos;Logitech;334.19;495.84
+PROD024;Impressora Térmica Não Fiscal para Cupons;Impressão;Elgin;380.54;546.13
+PROD025;Webcam HD 720p USB Plug and Play;Periféricos;Redragon;577.35;769.37
+PROD026;Teclado Mecânico RGB Switch Red ABNT2;Periféricos;Redragon;347.57;584.18
+PROD027;Teclado Sem Fio Ergonomico Bluetooth;Periféricos;Logitech;324.66;568.54
+PROD028;Mouse Gamer Optico 12000 DPI RGB;Periféricos;Razer;221.11;390.91
+PROD029;Mouse Sem Fio Silencioso USB;Periféricos;Logitech;89.58;126.02
+PROD030;Headset Gamer 7.1 Surround Drivers 50mm;Periféricos;HyperX;70.90;103.52
+PROD031;Headset Sem Fio Bluetooth com Cancelamento Ruído;Periféricos;JBL;196.27;282.11
+PROD032;Teclado e Mouse Sem Fio Combo Slim;Periféricos;Microsoft;346.75;510.94
+PROD033;Mouse Gamer Sem Fio 16000 DPI Ultra-Leve;Periféricos;Logitech;145.03;226.09
+PROD034;Teclado Membrana RGB Silencioso USB;Periféricos;Corsair;90.37;153.28
+PROD035;Headset Gamer USB Microfone Removível;Periféricos;Redragon;65.63;118.77
+PROD036;Mousepad Gamer Extra Grande 900x400mm;Acessórios;Redragon;94.79;143.56
+PROD037;Suporte Articulado para 2 Monitores de Pistão a Gás;Acessórios;ELG;11.21;20.88
+PROD038;Base Refrigerada para Notebook com LED;Acessórios;Multilaser;73.76;133.10
+PROD039;Filtro de Linha 8 Tomadas Proteção Contra Surtos;Acessórios;Intelbras;98.26;143.40
+PROD040;Cabo HDMI 2.1 8K Ultra HD 2 Metros;Acessórios;Pix;52.35;77.35
+PROD041;Hub USB-C 7 em 1 HDMI 4K PD 100W;Acessórios;Baseus;90.96;158.10
+PROD042;Adaptador Wi-Fi USB Dual Band 1200Mbps;Acessórios;TP-Link;50.13;72.94
+PROD043;Carregador Universal Notebook USB-C 65W;Acessórios;Baseus;44.30;69.76
+PROD044;Nobreak 1200VA 6 Tomadas Bivolt;Acessórios;Intelbras;78.28;136.74
+PROD045;Suporte Ergonômico para Notebook Alumínio;Acessórios;Baseus;98.07;161.95
+PROD046;"Pasta Executiva Impermeável para Notebook 15.6""";Acessórios;Kensington;21.81;39.14
+PROD047;Cabo de Rede Cat6 RJ45 10 Metros;Acessórios;Furukawa;83.30;141.73
+PROD048;Pendrive USB 3.2 128GB;Acessórios;SanDisk;86.19;143.35
+PROD049;Cartão de Memória MicroSD 256GB Class 10;Acessórios;SanDisk;63.69;103.64
+PROD050;Organizador de Cabos Espiral 2 Metros;Acessórios;Tramontina;16.33;24.07

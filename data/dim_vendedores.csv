@@ -1,0 +1,11 @@
+ID_Vendedor;Nome_Vendedor;Equipe;Regiao;Data_Admissao
+VEND001;Ricardo Mendes Alcantara;Equipe A;Sudeste;15/01/2022
+VEND002;Juliana Rocha Silveira;Equipe A;Sudeste;03/05/2022
+VEND003;Thiago Castro Barbosa;Equipe A;Sul;10/08/2022
+VEND004;Camila Fernandes Prado;Equipe A;Sul;01/11/2022
+VEND005;Marcelo Ribeiro Duarte;Equipe B;Nordeste;20/02/2023
+VEND006;Amanda Azevedo Martins;Equipe B;Nordeste;14/06/2023
+VEND007;Felipe Nogueira Costa;Equipe B;Centro-Oeste;02/10/2023
+VEND008;Beatriz Guimarães Lima;Equipe C;Centro-Oeste;18/01/2024
+VEND009;Gustavo Henrique Souza;Equipe C;Norte;05/05/2024
+VEND010;Patricia Carvalho Ramos;Equipe C;Norte;12/09/2024
